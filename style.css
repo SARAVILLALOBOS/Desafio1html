@@ -1,0 +1,34 @@
+body{
+    margin: 10px;
+    background-color: #85e7e7;
+    
+}
+h1{
+    color: rgba(2, 161, 45, 0.938);
+    text-align: left;
+    font-size: 50px;
+    font-family: SimSun;
+  
+    margin: 0px;
+   }
+
+ p{
+    font-family:dotum ;
+    text-align: justify;
+    font-family: SimSun;
+    font-size: 30px;
+    color: rgb(48, 212, 114);
+   
+   }
+   h2{
+      font-family:Jokerman;
+      color: rgb(10, 116, 117);
+      text-overflow: ellipsis;
+      text-emphasis-color:rgb(218, 20, 20);
+      margin: 50px;
+      font-size: 27PX;
+    }
+    header {
+        background-color: rgb(173, 231, 197);
+        padding: 15px;
+      }
